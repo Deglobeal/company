@@ -1,0 +1,45 @@
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>deglobeal construction</title>
+</head>
+
+<!--my header section of all my pages-->
+
+<div style="background: -moz-linear-gradient(red 70%,orange 30%); test-align: center; color: green; padding: 15px; border: 5px solid yellow; border-radius: 5px; padding-top: 5px; padding-bottom: 1px; margin: 4px;">
+	<header style="color: yellow; font-size: 20pt; text-shadow: 5px 2px 2px grey;">DEGLOBE CONSTRUCTION COMPANY</header>
+	<h3 style="padding-top: 0px; test-align: right">We Build You Enjoy!</h3>
+	
+</div>
+
+<!--my navigation section of all my page-<input type="search" name="search item" id="my search">-->
+<div>
+	
+	<nav>
+		<a href="/home.html">home</a>
+		<a href="/aboutme.html">about me</a>
+		<a href="/forexstrategy.html">forex strategy</a>
+		<a href="/cryptoinvestment.html">crypto investment</a>
+	</nav>
+	<body style="background-color: lightblue;">
+</div>
+
+<!-- my article section of my page-->
+<div>
+	<p style=" border: 20px soild yellow; border-width: 200px ">eqfeveqbwrbbavdb</p>
+</div>
+
+<!-- my side or aside section of the page-->
+<div>
+	<aside>
+		<p>let see</p>
+	</aside>
+</div>
+
+<!--my footer section of my page-->
+
+
+</body>
