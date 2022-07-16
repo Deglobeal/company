@@ -1,45 +1,90 @@
-<!doctype html>
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>deglobeal construction</title>
-</head>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0">
+        <link rel="stylesheet" href="newstyle.css">
+    </head>
+    <div class="wrapper">
+        <div class="multi-color-border"></div>
+        <!--for first menu bar-->
+        <div class="top-nav">
+            <div class="left-bar">
+                <div class="logo"><p><a href="./home.html"><span>DE</span>globeal</a></p></div>
+                <div class="search-bar">
+                <input type="text" placeholder="Search">
+                    </div>
+            </div> 
+            <div class="right-bar">
+                <ul>
+                    <li><a href="./signup.html"><i class="fa fa-user-plus"></i>Sign up</a></li>
+                <li><a href="./login.html"><i class="fa fa-sign-in"></i>Login</a></li>
+                <li><a href="./postajob"><i class="fa fa-post"></i>Post A Job</a></li>
+                </ul>
+            </div>       
+        </div>
+    </div>
+    <nav class="menu-bar">
+ 
+        <div>
+        <ul>
+            <li class="active"><a href="./home.html">Home</a></li>
+            <li><a href="./houseplan.html">Plans</a>
+            <div class="sub-menu-1">
+                <ul>
+                    <li><a href="./boungalo.html">boungalo</a></li>
+                    <li><a href="./duplex.html">duplex</a></li>
+                    <li><a href="./hotel.html">hotel</a></li>
+                    <li><a href="./hostel.html">hostel</a></li>
+                    <li><a href="./duplex.html">duplex</a></li>
+                    <li><a href="./ststions.html">fuel station</a></li>
+                    <li><a href="./flats.html">flats</a></li>
+                    <li><a href="./shops.html">shops</a></li>
+                    <li><a href="./lodges.html">lodges</a></li>
+                    <li><a href="./others.html">others</a></li>
+                </ul>
+            </div>
+        </li>
+               
+            <li><a href="./product.html"><i class="fa fa-cart-plus"></i>products</a>
+                <div class="sub-menu-1">
+                    <ul>
+                        <li class="hover-me"><a href="./buliding.html">buliding</a>
+                        <div class="sub-menu-2">
+                            <ul>
+                             <li><a href="./cement.html">cements</a></li>
+                             <li><a href="./blocks.html">blocks</a></li>
+                             <li><a href="./woods.html">wood</a></li>
+                        <li><a href="./metals.html">rods</a></li>
+                            </ul>
+                        </div>
+                        </li>
+                        <li><a href="./electrical.html">electrical</a></li>
+                        <li><a href="./plumbing.html">plumbing</a></li>
+                        <li><a href="./interior.html">interior</a></li>
+                        <li><a href="./outdoor.html">outdoor</a></li>
+                        <li><a href="./metal.html">metals</a></li>
+                        <li><a href="./chemicals.html">chemicals</a></li>
+                        <li><a href="./paints.html">paints</a></li>
+                        <li><a href="./others.html">others</a></li>
+                        
+                    </ul>
+                </div>
+            </li>
+            <li><a href="./profile.html">Profiles</a></li>
+            <li><a href="./worked.html">worked</a></li>
+            <li><a href="./requestwork.html">Request</a></li>
+            <li><a href="./news.html"></i>News</a></li>
+            <li><a href="./aboutus.html"></i>About us</a></li>
+            <li><a href="./contactus.html">Contact us</a></li>
 
-<!--my header section of all my pages-->
+        </ul>
+        </div>
 
-<div style="background: -moz-linear-gradient(red 70%,orange 30%); test-align: center; color: green; padding: 15px; border: 5px solid yellow; border-radius: 5px; padding-top: 5px; padding-bottom: 1px; margin: 4px;">
-	<header style="color: yellow; font-size: 20pt; text-shadow: 5px 2px 2px grey;">DEGLOBE CONSTRUCTION COMPANY</header>
-	<h3 style="padding-top: 0px; test-align: right">We Build You Enjoy!</h3>
-	
-</div>
+    </nav>
 
-<!--my navigation section of all my page-<input type="search" name="search item" id="my search">-->
-<div>
-	
-	<nav>
-		<a href="/home.html">home</a>
-		<a href="/aboutme.html">about me</a>
-		<a href="/forexstrategy.html">forex strategy</a>
-		<a href="/cryptoinvestment.html">crypto investment</a>
-	</nav>
-	<body style="background-color: lightblue;">
-</div>
-
-<!-- my article section of my page-->
-<div>
-	<p style=" border: 20px soild yellow; border-width: 200px ">eqfeveqbwrbbavdb</p>
-</div>
-
-<!-- my side or aside section of the page-->
-<div>
-	<aside>
-		<p>let see</p>
-	</aside>
-</div>
-
-<!--my footer section of my page-->
-
-
-</body>
+    <div class="banner">
+        <img src="background1.jpg" alt="banner-img" width="100%">
+    </div>
+    
+</html>
