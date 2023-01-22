@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+#mainbody {
+    text-align: center;
+    background-color: blueviolet;
+    border: 50px solid cornflowerblue;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+p {
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px;
+    color: #4828be;
+    font-size: large;
+
+}
+#outputtext {
+    width: 100px;
+    margin: 30px auto;
+}
+button {
+    width: 100px;
+    margin: 30px auto;
+}
