@@ -6,11 +6,11 @@ let Number = [Math.floor(Math.random() * 100)]
 btn.addEventListener ('click', function() {
          let input = document.getElementById("userinput").value;
         if (input == Number) {
-            output.innerHTML == 'You gessed right, Your number was ${Number}'
+            output.innerHTML = 'You gessed right, Your number was right'
         } else if (input < Number) {
             output.innerHTML = "You gessed to low"
-        };
-        if (input > Number) {
+        }
+         if (input > Number) {
             output.innerHTML = "You gessed too high"
-        };
+        } 
     }); 

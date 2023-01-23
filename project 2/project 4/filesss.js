@@ -17,5 +17,5 @@ for (var i = 0; i < str1.length; i++) {
 return vowelCounts;
 
 }
-console.log(vowelCount( "aeuioaeuioaeuio ghfhddjkfdjfdgkdgjkdgndg"));
+console.log(vowelCount( "AEUOIAEUOIAEUOIAEUOIAEUOIAEUOIAEUOIAEUOIAEUOIAEUOI"));
 
